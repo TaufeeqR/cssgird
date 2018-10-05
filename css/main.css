@@ -98,4 +98,11 @@ body {
         
     }
 
+    .item-2 {
+        grid-template-areas: 
+        "header" 
+        "header"
+        "article"
+        "sidebar";
+    }
 }
